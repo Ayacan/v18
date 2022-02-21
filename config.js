@@ -16,10 +16,10 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/HAZ6yFgCafUAeDbNH33IrL', ''] // ganti jadi group lu
-global.owner = ['6288279268363'] // Put your number here //owner eval
-global.kontak = ['6288279268363','0'] //Ketika ada yang ngetik #owner
-global.mods = ['6288279268363'] // Want some help?
-global.prems = ['6288279268363'] // Premium user has unlimited limit
+global.owner = ['6283814160711'] // Put your number here //owner eval
+global.kontak = ['6283814160711','0'] //Ketika ada yang ngetik #owner
+global.mods = ['6283814160711'] // Want some help?
+global.prems = ['6283814160711'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -69,8 +69,8 @@ global.author = 'King Of Bear' // ganti aja
 //yyy
 bc = 'King Of Bear' //King Of Bear Broadcast
 footer = '\n©King Of Bear'
-namabot = 'YUKI BOT'
-namalu = 'King Of Bear'
+namabot = 'PRILI BOT'
+namalu = 'lili'
 
 
 // 
